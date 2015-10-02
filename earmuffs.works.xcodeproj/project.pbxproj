@@ -10,6 +10,7 @@
 		370021A91BBED0BC00CA89FD /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
 		370021AA1BBED0BC00CA89FD /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		370021AB1BBED0BC00CA89FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		370021AC1BBED33800CA89FD /* support */ = {isa = PBXFileReference; lastKnownFileType = folder; path = support; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 				370021AB1BBED0BC00CA89FD /* README.md */,
 				370021A91BBED0BC00CA89FD /* CNAME */,
 				370021AA1BBED0BC00CA89FD /* index.html */,
+				370021AC1BBED33800CA89FD /* support */,
 			);
 			sourceTree = "<group>";
 		};
