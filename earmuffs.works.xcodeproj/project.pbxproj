@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		370021A91BBED0BC00CA89FD /* CNAME */ = {isa = PBXFileReference; lastKnownFileType = text; path = CNAME; sourceTree = "<group>"; };
+		370021AA1BBED0BC00CA89FD /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		370021AB1BBED0BC00CA89FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		370021A21BBED04200CA89FD = {
+			isa = PBXGroup;
+			children = (
+				370021AB1BBED0BC00CA89FD /* README.md */,
+				370021A91BBED0BC00CA89FD /* CNAME */,
+				370021AA1BBED0BC00CA89FD /* index.html */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		370021A31BBED04200CA89FD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+			};
+			buildConfigurationList = 370021A61BBED04200CA89FD /* Build configuration list for PBXProject "earmuffs.works" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 370021A21BBED04200CA89FD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		370021A71BBED04200CA89FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		370021A81BBED04200CA89FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		370021A61BBED04200CA89FD /* Build configuration list for PBXProject "earmuffs.works" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				370021A71BBED04200CA89FD /* Debug */,
+				370021A81BBED04200CA89FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 370021A31BBED04200CA89FD /* Project object */;
+}
