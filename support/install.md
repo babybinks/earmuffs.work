@@ -3,6 +3,8 @@ layout: appsupport
 title: Using Earmuffs
 ---
 
+
+
 <div class="content-section-a">
 <div class="container">
 <div class="row">
@@ -129,7 +131,7 @@ You can change the passcode at any time in the 'Settings' screen in the applicat
 
 <div class="row">
 <div class="col-lg-5 col-sm-6">
-<h2 class="section-heading">Adding to White and Black List Using Safari Extensions</h2>
+<h2 class="section-heading">Adding to Custom Lists Directly from Safari</h2>
 <p class="lead">
 The notifications and siren will continue to fire until the correct passcode is entered.
 
@@ -155,5 +157,59 @@ You can change the passcode at any time in the 'Settings' screen in the applicat
 <!-- /.content-section-b -->
 
 
+
+
+
+<div class="content-section-b">
+<div class="container">
+<div class="row">
+<div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+<hr class="section-heading-spacer">
+<div class="clearfix"></div>
+<h2 class="section-heading">Enabling Safari Actions</h2>
+<p class="lead">
+A single notification will be posted to Notification Center
+to all devices that share an iCloud account (e.g. iPhone,
+iPad, Mac Book Pro, Mac Pro).  Continous notifications
+will be presented on the device along with a audible alert.
+The camera's flash will fire when on the passcode entry screen.
+These work in concert to disrupt the child's activity on the device
+and to alert the parents that their screen time is up.
+</p>
+</div>
+<div class="col-lg-5 col-sm-pull-6  col-sm-6">
+<img class="img-responsive" src="{{ site.baseurl }}public/images/safari-action-1.png" alt="">
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+<div class="content-section-a">
+<div class="container">
+
+<div class="row">
+<div class="col-lg-5 col-sm-6">
+<hr class="section-heading-spacer">
+<div class="clearfix"></div>
+<h2 class="section-heading">Using Earmuffs Safari Actions</h2>
+<p class="lead">
+Screen Time is a simple app that allows you to set limits on the amount
+of time you children use an iPhone or iPad. Set a time length, press
+start and pass it to you children. After the time expires, a series of
+notifications will prevent your children from using the device until
+you enter the correct passcode.
+
+</p>
+</div>
+<div class="col-lg-5 col-lg-offset-2 col-sm-6">
+<img class="img-responsive" src="{{ site.baseurl }}public/images/safari-action-2.png" alt="">
+</div>
+</div>
+
+</div>
+</div>
 
 
