@@ -11,15 +11,35 @@
 		370021AA1BBED0BC00CA89FD /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		370021AB1BBED0BC00CA89FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		370021AC1BBED33800CA89FD /* support */ = {isa = PBXFileReference; lastKnownFileType = folder; path = support; sourceTree = "<group>"; };
+		37F3554A1BC89A26009F219C /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
+		37F3554B1BC89A26009F219C /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
+		37F3554C1BC89A26009F219C /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
+		37F3554D1BC89A26009F219C /* _posts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _posts; sourceTree = "<group>"; };
+		37F3554F1BC89A26009F219C /* 404.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = 404.html; sourceTree = "<group>"; };
+		37F355501BC89A3D009F219C /* blog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = blog; sourceTree = "<group>"; };
+		37F355521BC89A3D009F219C /* marketing */ = {isa = PBXFileReference; lastKnownFileType = folder; path = marketing; sourceTree = "<group>"; };
+		37F355531BC89A3D009F219C /* press */ = {isa = PBXFileReference; lastKnownFileType = folder; path = press; sourceTree = "<group>"; };
+		37F355541BC89A3D009F219C /* privacy */ = {isa = PBXFileReference; lastKnownFileType = folder; path = privacy; sourceTree = "<group>"; };
+		37F355551BC89A3D009F219C /* public */ = {isa = PBXFileReference; lastKnownFileType = folder; path = public; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		370021A21BBED04200CA89FD = {
 			isa = PBXGroup;
 			children = (
+				37F3554A1BC89A26009F219C /* _config.yml */,
 				370021AB1BBED0BC00CA89FD /* README.md */,
 				370021A91BBED0BC00CA89FD /* CNAME */,
+				37F3554F1BC89A26009F219C /* 404.html */,
 				370021AA1BBED0BC00CA89FD /* index.html */,
+				37F3554B1BC89A26009F219C /* _includes */,
+				37F3554C1BC89A26009F219C /* _layouts */,
+				37F355551BC89A3D009F219C /* public */,
+				37F355501BC89A3D009F219C /* blog */,
+				37F355521BC89A3D009F219C /* marketing */,
+				37F355531BC89A3D009F219C /* press */,
+				37F355541BC89A3D009F219C /* privacy */,
+				37F3554D1BC89A26009F219C /* _posts */,
 				370021AC1BBED33800CA89FD /* support */,
 			);
 			sourceTree = "<group>";

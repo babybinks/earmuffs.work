@@ -1,0 +1,30 @@
+# Dependencies
+markdown:       redcarpet
+highlights:     pygments
+
+# Permalinks
+permalink:      /blog/:categories/:year/:month/:day/:title
+
+# Setup
+title:          Earmuffs
+tagline:        Adult Content Blocker (for Kids)
+baseurl:        http://earmuffs.work/
+url:            http://earmuffs.work
+
+# Blog
+paginate_path:    "blog/page:num"
+paginate:         2
+
+#
+author:
+  name:           Mark Otto
+  url:            https://twitter.com/babybinks
+  email:          markdotto@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
+google_analytics: UA-
+timezone:           America/Chicago
+
