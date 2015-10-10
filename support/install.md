@@ -129,7 +129,7 @@ You can change the passcode at any time in the 'Settings' screen in the applicat
 
 <div class="row">
 <div class="col-lg-5 col-sm-6">
-<h2 class="section-heading">Ending a Session</h2>
+<h2 class="section-heading">Adding to White and Black List Using Safari Extensions</h2>
 <p class="lead">
 The notifications and siren will continue to fire until the correct passcode is entered.
 
