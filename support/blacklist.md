@@ -1,5 +1,5 @@
 ---
-layout: support-app
+layout: appsupport
 title: The Blacklist
 ---
 
