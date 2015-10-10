@@ -10,8 +10,9 @@ title: Using Earmuffs
       <div class="col-lg-5 col-sm-6">
         <h2 class="section-heading">Enable Content Blockers in iOS</h2>
         <p class="lead">
-        Content blocking is a new system level feature in iOS 9.  They works directly
-        with the Safari browser, but need to be enabled before they can be used.
+        Content blocking is a new system level feature in iOS 9.  Content blockers
+        works directly with the Safari browser, but need to be enabled before
+        they can be used.
         
         <ol>
           <li>Navigate to your device's Settings app.  The Settings app icon shows an arrangement of gray gears.</li>
