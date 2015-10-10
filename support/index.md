@@ -2,15 +2,10 @@
 layout: support
 title: Using Earmuffs
 ---
-<!-- /.container -->
 
-<!-- </div> -->
-<!-- /.banner -->
 
 <div class="content-section-a">
-  
   <div class="container">
-    
     <div class="row">
       <div class="col-lg-5 col-sm-6">
         <h2 class="section-heading">Enable Content Blockers in iOS</h2>
@@ -69,12 +64,12 @@ title: Using Earmuffs
         <h2 class="section-heading">How Do I Know When A Content Blocker is Working</h2>
         <p class="lead">
         When a content blocker is working, Safari will not load the site.  You
-        will see a blank page in the Safari browser.  In the example, we are
-        using the blacklist to block websites with the term cats in the site name.
-        
-        
-
+        will see a blank page in the Safari browser.
         </p>
+        In the example, we are using the blacklist to block websites with the
+        term "cats" in the site name.  In the top screenshot, the search term
+        "cats" shows images and sites of cats from a search.  Once added to the
+        block list, Safari only page shows a blank screen.
       </div>
       <div class="col-lg-5 col-lg-offset-2 col-sm-6">
         <img class="img-responsive" src="{{ site.baseurl }}public/images/inaction.png" alt="">
