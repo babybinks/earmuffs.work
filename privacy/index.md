@@ -6,8 +6,8 @@ title: Privacy Policy
 ## Privacy Policy ##
 Earmuffs does not collect any or share any information about users of the 
 application.  We respect your privacy and appreciate the trust you place with us.  
-If you have any questions please contact us at 
-<a href='mailto:support@babybinks.com'>support@babybinks.com</a>.
+If you have any questions please visit at <a href='http://babybinks.com'>babybinks.com</a> or
+contact us at <a href='mailto:support@babybinks.com'>support@babybinks.com</a>.
 
 ## App Capabilities ##
 Earmuffs accesses the Internet to update the content blocker database from iCloud.
