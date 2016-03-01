@@ -11,6 +11,7 @@
 		370021AA1BBED0BC00CA89FD /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		370021AB1BBED0BC00CA89FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		370021AC1BBED33800CA89FD /* support */ = {isa = PBXFileReference; lastKnownFileType = folder; path = support; sourceTree = "<group>"; };
+		37C958E11BD00874004E21F8 /* faq */ = {isa = PBXFileReference; lastKnownFileType = folder; path = faq; sourceTree = "<group>"; };
 		37F3554A1BC89A26009F219C /* _config.yml */ = {isa = PBXFileReference; lastKnownFileType = text; path = _config.yml; sourceTree = "<group>"; };
 		37F3554B1BC89A26009F219C /* _includes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _includes; sourceTree = "<group>"; };
 		37F3554C1BC89A26009F219C /* _layouts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = _layouts; sourceTree = "<group>"; };
@@ -34,6 +35,7 @@
 				370021AA1BBED0BC00CA89FD /* index.html */,
 				37F3554B1BC89A26009F219C /* _includes */,
 				37F3554C1BC89A26009F219C /* _layouts */,
+				37C958E11BD00874004E21F8 /* faq */,
 				37F355551BC89A3D009F219C /* public */,
 				37F355501BC89A3D009F219C /* blog */,
 				37F355521BC89A3D009F219C /* marketing */,
